@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(233, 230, 230);
+    padding: 2%;
+}
+
+.cards{
+    border-radius: 5px;
+    margin: auto;
+    background-color: white;
+    
+}
+.icon {
+    font-size: 1.8rem;
+    margin-right: 2rem;
+}
+
+.card-title{
+    font-size: 35px;
+}
+
+.card-body{
+    font-size: 20px;
+}
+
+.text-purple {
+    color: purple !important;
+}
+
+.bg-purple {
+    background-color: #9979E0;
+    opacity: 0.8; 
+    border-radius: 20px;
+  }
